@@ -1,2 +1,2 @@
-# Airbnb---CSS-Grid
+# Airbnb-CSS-Grid
 This project covers CSS Grid functionalities.
